@@ -31,7 +31,7 @@
    ```bash
    git clone https://github.com/K3ster/Cactai2.git
 
-2. Otwórz projekt w Unity (wersja 2022+ zalecana)
+2. Otwórz projekt w Unity (wersja 6 zalecana)
 3. Upewnij się, że masz włączone:
 
    * `Accelerometer Input` (na urządzeniu mobilnym)
