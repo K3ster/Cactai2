@@ -29,4 +29,50 @@
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-nick/gravity-dash.git
+   git clone https://github.com/K3ster/Cactai2.git
+
+2. Otwórz projekt w Unity (wersja 2022+ zalecana)
+3. Upewnij się, że masz włączone:
+
+   * `Accelerometer Input` (na urządzeniu mobilnym)
+   * Włączone `EventSystem` w scenie
+4. Zbuduj apkę na Androida i testuj na telefonie
+
+---
+
+## ⚙️ Personalizacja prefabów
+
+W scenie ustawień znajdują się **5 suwaków**, które odpowiadają za prawdopodobieństwo pojawiania się prefabów:
+
+* Normalna platforma
+* Lodowa platforma
+* Kolce
+* Przeciwnik
+* Częstotliwość pojawiania się platform
+* Wykosość skoku
+* Szybkość postaci
+
+Po kliknięciu **Zapisz**, wartości są zachowane między sesjami.
+
+
+## 🧑‍💻 Autor
+
+Projekt stworzony przez Kester
+Pomysły, kod, UI i system spawnu — wszystko w pełni autorskie 💡
+
+---
+
+## 📃 Licencja
+
+MIT License — możesz dowolnie używać, modyfikować i rozpowszechniać z podaniem autora.
+
+---
+
+
+
+
+
+
+
+
+
