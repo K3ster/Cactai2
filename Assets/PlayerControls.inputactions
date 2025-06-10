@@ -1,0 +1,34 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "1a08e379-ea6a-462d-a692-57b4cf833538",
+            "actions": [
+                {
+                    "name": "Tilt",
+                    "type": "Value",
+                    "id": "c771ccb6-e9b7-43b0-b386-01df073425fb",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ab3bde87-60a9-42b3-b42b-cdb1b015d3bc",
+                    "path": "<GravitySensor>/gravity",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tilt",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
